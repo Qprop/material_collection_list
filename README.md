@@ -19,7 +19,7 @@
 * [Data Science at the Command Line](https://www.datascienceatthecommandline.com/index.html)
 
 
-##Other content/Interesting blog online
+## Other content/Interesting blog online
 * Learn R and Python in Parallel [Another Book on Data Science](https://www.anotherbookondatascience.com/) though still under review
 * Excel VBA Blog tutorials [Excel VBA](https://excelmacromastery.com/vba-articles/)
 

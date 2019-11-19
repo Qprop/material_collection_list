@@ -25,5 +25,6 @@
 
 * SPSS syntax tutorials on steroids, including R and Python scripts [Raynald's SPSS Tools](http://www.spsstools.net/en/)
 * Java script for data science using npm [Java for DS](http://js4ds.org/)
+* Data Visualization tips [dataviz](https://serialmentor.com/dataviz/balance-data-context.html)
 
 * Most of the above R especially resources can be searched and gotten under the list of bookdown books [here](https://bookdown.org/)
